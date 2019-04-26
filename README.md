@@ -10,7 +10,9 @@ In order to use in your environment, it's necessary to modify time range and nam
 Most of examples are based on the detction of Event ID 4625 : authentication error.
 To collect this event, you'll have to configure Azure Security Center policy Data collection, in order to activate Windows security events (common level)
 
-
+the first request
+serach in a specific table
+serach in (securityevent) "An account failed to log on"
 
 //the first request
 //Search in a specific  table
