@@ -11,13 +11,10 @@ Most of examples are based on the detction of Event ID 4625 : authentication err
 To collect this event, you'll have to configure Azure Security Center policy Data collection, in order to activate Windows security events (common level)
 
 
-//the first request
-
-//Search in a specific  table
-
-//Change Time Range
-
-search in (SecurityEvent) "An account failed to log on"
+//the first request  
+//Search in a specific table  
+//Change Time Range  
+search in (SecurityEvent) "An account failed to log on"  
 
 
 //Use wild cards
