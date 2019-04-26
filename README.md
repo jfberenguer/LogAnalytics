@@ -13,7 +13,7 @@ To collect this event, you'll have to configure Azure Security Center policy Dat
 
 
 //the first request
-//Search in a specific table
+//Search in a specific  table
 //Change Time Range
 search in (SecurityEvent) "An account failed to log on"
 
