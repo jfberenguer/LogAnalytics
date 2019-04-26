@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jfberenguer 
-0
-0 0 jfberenguer/LogAnalytics
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-LogAnalytics
-/
-Name your file…
- 
 # MICROSOFT IGNITE 2018
 # THR3115 - Azure Log Analytics: Deep dive into the Azure Kusto query language
 
