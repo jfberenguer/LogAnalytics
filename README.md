@@ -56,7 +56,7 @@ SecurityEvent
 |order by count_ desc
 
 
-//What is the top 10 of login used
+//What is the top 10 of login used 
 SecurityEvent 
 |where TimeGenerated between (datetime(2018-09-01) .. datetime(2018-10-31))
 |where Computer contains "xxx" 
